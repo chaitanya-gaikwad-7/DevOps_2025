@@ -1,7 +1,7 @@
 # Week 1
 
 * [x] Chef — configuration management, older but still used
-* [ ] Bitbucket — platforms around Git.
+* [x] Bitbucket — platforms around Git.
 * [ ] GitHub Actions — CI/CD integrated with GitHub
 * [ ] K3s — lightweight Kubernetes distributions.
 * [ ] MicroK8s — lightweight Kubernetes distributions.
@@ -141,5 +141,6 @@
 * [ ] Klotho - Converts code into infra (IaC compiler)
 * [ ] Oxide Cloud - Cloud infra with DevOps baked in
 * [ ] Firefly - IaC management platforms
+
 
 
