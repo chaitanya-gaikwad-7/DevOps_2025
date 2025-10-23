@@ -3,7 +3,7 @@
 
 * [x] Terraform — widely used across clouds
 * [x] Ansible — config management / automation via YAML
-* [ ] Chef — configuration management, older but still used
+* [x] Chef — configuration management, older but still used
 * [ ] Puppet — similar to Chef, config management
 * [ ] Azure Bicep — Azure’s IaC language
 * [ ] ARM Templates — older Azure IaC
@@ -23,7 +23,7 @@
 * [x] GitHub
 * [x] GitLab
 * [x] Nexus Repository — artifact repository
-* [ ] Bitbucket — platforms around Git.
+* [x] Bitbucket — platforms around Git.
 * [ ] JFrog Artifactory — artifact repository
 * [ ] Sonatype Nexus IQ — dependency & component governance
 * [ ] Snyk — dependency / open‑source security scanning
@@ -134,5 +134,6 @@
 * [ ] GitOps (the practice) — using Git + tools like Argo/Flux.
 * [ ] SSO/Identity integration (SAML/OIDC) for toolchain.
 * [ ] AI‑augmented DevOps / AIOps — emerging trend
+
 
 ---
